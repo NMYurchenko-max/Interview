@@ -1,0 +1,5 @@
+2024-08-05 08:51:18 - send_email(<__main__.EmailClient object at 0x000001CF3740E0F0>, subject='Subject', recipients=['vasya@email.com', 'petya@email.com'], message='Message') -> None
+2024-08-05 08:51:20 - receive_email(<__main__.EmailClient object at 0x000001CF3740E0F0>) -> <email.message.Message object at 0x000001CF377C49E0>
+2024-08-05 08:53:10 - send_email(<__main__.EmailClient object at 0x0000028120DA1FD0>, subject='Subject', recipients=['vasya@email.com', 'petya@email.com'], message='Message') -> None
+2024-08-05 08:53:12 - receive_email(<__main__.EmailClient object at 0x0000028120DA1FD0>) -> <email.message.Message object at 0x0000028121154A40>
+2024-08-05 08:53:12 - display_email(<__main__.EmailClient object at 0x0000028120DA1FD0>, <email.message.Message object at 0x0000028121154A40>) -> None
